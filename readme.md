@@ -2,7 +2,7 @@
 
 Does a build thingy
 
-[https://dailylolpics.com/wp-content/uploads/2017/09/Dat-fro-do-meme.jpg]
+![Dat Fro-Do](https://dailylolpics.com/wp-content/uploads/2017/09/Dat-fro-do-meme.jpg)
 
 ## Usage
 
