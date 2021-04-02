@@ -1,0 +1,24 @@
+{
+    "sites": [
+        {
+            "name": "joecianflone",
+            "path": "Sites/PROJECTS/joe/",
+            "input": "content",
+            "output": "public",
+            "template": "templates",
+            "output_extension": ".htm",
+            "input_extensions": [
+                ".md"
+            ],
+            "exclude_files": [
+                "baz.md"
+            ],
+            "default_template": "test.html",
+            "templates": {
+                "test": "test.html",
+                "home": "home.html"
+            },
+            "compiled": []
+        }
+    ]
+}
